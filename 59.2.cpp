@@ -40,7 +40,7 @@ void  liczba_zad :: odwroc_liczbe_str (string liczba)
 	plik >> liczba;
 
 	
-    zrobia
+    do
     {
         cout << liczba% 10 ;
         liczba / = 10 ;
